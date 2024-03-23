@@ -1,0 +1,1 @@
+"#This code first prompts the user to enter the size of the array, then takes the sorted integers as input. After that, it prompts the user to enter the element they want to search for. Finally, it performs binary search on the array and prints the result." 
